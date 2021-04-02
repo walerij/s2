@@ -1,0 +1,16 @@
+{
+    "name": "walerij/s2",
+    "description": "super",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Zhdanov Valery",
+            "email": "becwal@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "andydune/currency-rate-cbr": "^1"
+    }
+}
