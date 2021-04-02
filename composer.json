@@ -12,5 +12,10 @@
     "minimum-stability": "stable",
     "require": {
         "andydune/currency-rate-cbr": "^1"
+    },
+    "autoload": {
+        "psr-4": {
+            "walerij\\s2\\": "src/"
+        }
     }
 }
